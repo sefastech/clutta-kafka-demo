@@ -32,9 +32,24 @@ Now, let's get your demo environment ready!
 2.  **Create a Codespace:**
     * Click on the `<> Code` button.
     * Select the `Codespaces` tab.
-    * Click `Create codespace on main`.
-    * **Important:** Ensure the machine type selected is **4-core** for optimal performance.
+         <img width="1440" alt="Screenshot 2025-06-08 at 17 18 12" src="https://github.com/user-attachments/assets/f5d81fc1-b81d-4aaf-a763-1c5db8daad9d" />
 
+    * Click `Create codespace on main`.
+    * You should get redirected to a different browser tab where you'll access the codespace.
+    
+      **Note:**
+    * Before you proceed, it is important to ensure the machine type selected for the codespace is **4-core** for optimal performance.
+    * To do this, simply come back to this repo: [Clutta-Kafka Demo Repository](https://github.com/sefastech/clutta-kafka-demo/) and refresh the page.
+    * Again, go to the `Codespaces` tab under `<> Code` like before. You should see an active codespace.
+    * Click the ellipsis menu beside the active codespace and select `Change machine type`.
+      
+         <img width="1440" alt="Screenshot 2025-06-08 at 17 24 20" src="https://github.com/user-attachments/assets/d2d39f12-188e-47f2-bf83-d4799229607d" />
+
+    * Select **4-core** and update codespace.
+      
+         <img width="1440" alt="Screenshot 2025-06-08 at 17 24 36" src="https://github.com/user-attachments/assets/9c9e4aab-650e-4361-b71f-bff9a963f4da" />
+
+    * Stop and restart the codespace to apply the change.
 ---
 
 ### Step 3: Paste Your Configuration
