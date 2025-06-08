@@ -1,0 +1,8 @@
+apiKey: "---Add API Key-----"
+userId: "default" # replace with your desired user id
+projectId: "-----Add Project ID----"
+sourceId: "localhost" # replace with your desired source id
+deploymentMethod: "docker"
+appType: "supported"
+logFiles:
+  - containerName: "broker"
